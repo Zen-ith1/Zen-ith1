@@ -27,5 +27,5 @@ Some Languages and Tools im very filmiliar with include:
 
 
 
-https://github-readme-streak-stats.herokuapp.com/?user=Zen-ith1
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Zen-ith1&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
