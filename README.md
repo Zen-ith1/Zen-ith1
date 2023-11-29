@@ -5,12 +5,27 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+![](https://komarev.com/ghpvc/?username=Zen-ith1)
+
+my name is White Wid0w, im a cyber security analyst with cypher links LLC. Im currently working on many projects including Hak 5 payload development, website development, and PowerShell Scripting. 
+
+Some Languages and Tools im very filmiliar with include: 
+
+- PowerShell
+- Ducky Script
+- Bash Scipt
+- Python
+- Java Script
+- C++
+- Kali Linux
+- Nmap
+- Wireshark
+- Cyber Chef
+- And Many More!
+
+
+
+https://github-readme-streak-stats.herokuapp.com/?user=Zen-ith1
+
