@@ -1,4 +1,9 @@
 
+[Header](./your-header-image-name.png)
+
+
+
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -46,7 +51,11 @@ Some Languages and Tools im very filmiliar with include:
 - And Many More!
 
 
+
+
 Check Out My Latest Cyber Security Articles @ CypherLinks.com
+
+use code "TenAfterTwo" to enter subscription tab to read.
 
 ---
 
