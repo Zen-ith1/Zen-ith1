@@ -26,7 +26,10 @@
 
 ![](https://komarev.com/ghpvc/?username=Zen-ith1)
 
-my name is **White_Wid0w** , im a cyber security analyst with cypher links LLC. Im currently working on many projects including Hak 5 payload development, website development, and PowerShell Scripting. 
+
+
+
+my name is **White_Wid0w** , im a cyber security analyst with cypher links LLC. Im currently working on many projects including Hak 5 payload development, website development, PowerShell Scripting, and Java Security Tool Development.
 
 Some Languages and Tools im very filmiliar with include: 
 
@@ -42,6 +45,8 @@ Some Languages and Tools im very filmiliar with include:
 - Cyber Chef
 - And Many More!
 
+
+Check Out My Latest Cyber Security Articles @ CypherLinks.com
 
 ---
 
