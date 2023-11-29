@@ -6,10 +6,10 @@
 ---
 
   <div id="badges">
-  <a href="www.linkedin.com/in/jacob-miller-05091928a">
+  <a href="https://www.linkedin.com/in/jacob-miller-05091928a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://www.youtube.com/">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://twitter.com/CypherLinksUS">
@@ -29,7 +29,7 @@
 
 
 
-my name is **White_Wid0w** , im a cyber security analyst with cypher links LLC. Im currently working on many projects including Hak 5 payload development, website development, PowerShell Scripting, and Java Security Tool Development.
+my name is **White_Wid0w** , im a cyber security analyst with cypher links LLC. Im currently working on many projects including Hak 5 payload development, website development, Java Security Tool Development, and 3D-Modeling.
 
 Some Languages and Tools im very filmiliar with include: 
 
