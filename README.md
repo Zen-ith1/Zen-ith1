@@ -1,7 +1,8 @@
 
-[Header](./github-header-image.png)
+![Header](./github-header-image.png)
 
 
+---
 
 
 <div id="header" align="center">
