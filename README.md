@@ -41,10 +41,10 @@ Some Languages and Tools im very filmiliar with include:
 - Java Script
 - C++
 - Kali Linux
-- Nmap
-- Wireshark
+- Slicer Software 
+- Oracle Virtual Box 
 - Cyber Chef
-- And Many More!
+- And Many Many More!
 
 
 <br>
