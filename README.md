@@ -70,6 +70,24 @@ use code "TenAfterTwo" to enter subscription tab to read.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zen-ith1&size_weight=0.5&count_weight=0.5)
 
+
+<br>
+
+
+---
+
+### DISCLAIMER: 
+All payloads, tools, and code shared on this GitHub repository are intended for educational and research purposes only. The use of these materials for any malicious or unauthorized activities is strictly prohibited. 
+
+By accessing and utilizing the contents of this repository, you agree that I, as the contributor, cannot be held responsible for any misuse, damage, or consequences resulting from the use of these payloads or tools. Users are solely responsible for ensuring that their actions comply with applicable laws and ethical standards.
+
+It is essential to use these resources responsibly, respecting privacy, and obtaining proper authorization before engaging in any testing or experimentation with these tools. Any actions taken by users based on the information provided within this repository are done at their own risk.
+
+Please use these materials in an ethical and lawful manner. By accessing and using these resources, you acknowledge and agree to this disclaimer.
+
+
+
+
 --- 
 
 ![Footer](./github-footer-image.png)
