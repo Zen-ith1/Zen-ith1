@@ -30,7 +30,7 @@
 
 
 
-my name is **White_Wid0w** , im a cyber security analyst with cypher links LLC. Im currently working on many projects including Hak 5 payload development, website development, Java Security Tool Development, and 3D-Modeling.
+my name is **White_Wid0w** , im a cyber security analyst with cypher links LLC. Im currently working on many projects including Hak 5 payload development, website development, Java Security Tool Development, 3D-Modeling, And More!
 
 Some Languages and Tools im very filmiliar with include: 
 
@@ -40,10 +40,11 @@ Some Languages and Tools im very filmiliar with include:
 - Python
 - Java Script
 - C++
-- Kali Linux
+- Kali Linux Tools
 - Slicer Software 
 - Oracle Virtual Box 
 - Cyber Chef
+- HTML
 - And Many Many More!
 
 
