@@ -45,6 +45,7 @@ Some Languages and Tools im very filmiliar with include:
 - Oracle Virtual Box 
 - Cyber Chef
 - HTML
+- C2 Servers
 - And Many Many More!
 
 
